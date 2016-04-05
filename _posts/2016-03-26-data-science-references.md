@@ -11,11 +11,8 @@ date: 2016-03-26
 This is an attempt to catalogue a variety of data science references. Rather than try to group them thematically, I've added a variety of metatags and annotations.
 
 * exploratory data analysis
-
 * data journalism
-
 * data science
-
 * data visualization
 
 Additionally, some of the more prominent and prolific authors will get their own sections (and the metatags are applied to their work in general).
@@ -39,9 +36,7 @@ ___
 #### Alberto Cairo
 
 * data journalism
-
 * data science
-
 * data visualization
 
 * see Cairo's blog, [The Functional Art](http://www.thefunctionalart.com/)
@@ -55,7 +50,6 @@ ___
 Chang, Winston (2012) _R Graphics Cookbook_, O'Reilly.
 
 * data visualization
-
 * R
 
 ___
@@ -63,7 +57,6 @@ ___
 #### William S. Cleveland
 
 * data science
-
 * data visualization
 
 Cleveland, William S. (1993) _Visualizing Data_, Hobart Press.
@@ -100,9 +93,7 @@ ___
 #### Stephen Few 
 
 * data journalism
-
 * data science
-
 * data visualization
 
 Few, Stephen (2009) _Now You See It: Simple Visualization Techniques for Quantitative Analysis_, Analytics Press.
@@ -137,7 +128,6 @@ Grolemund, Garrett (2014) _Hands-On Programming With R_, O'Reilly Media.
 Grolemund, Garrett and Hadley Wickham (2016), [_R for Data Science_](http://r4ds.had.co.nz/do-science-with-data.html)
 
 * data science
-
 * R
 
 Hayes, Bob (2015) ["Getting More Insights from Data: Nine Facts about the Practice of Data Science"](http://businessoverbroadway.com/getting-more-insights-from-data-nine-facts-about-the-practice-of-data-science), businessoverbroadway.com, 2015-12-14.
@@ -158,7 +148,6 @@ Hays, Constance L. (2004) ["What Wal-Mart Knows About Customers' Habits"](http:/
 Hilfiger, John Jay (2015) _Graphing Data with R_, O'Reilly Media.
 
 * data visualization
-
 * R
 
 Ishikawa, Kaoru (?) [Seven Basic Tools of Quality](https://en.wikipedia.org/wiki/Seven_Basic_Tools_of_Quality)
@@ -180,7 +169,6 @@ Kennedy, Pagan (2013) ["Who Made That Universal Product Code?"](http://www.nytim
 Knaflic, Cole Nussbaumer (2015) _Storytelling with Data: A Data Visualization Guide for Business Professionals_, Wiley.
 
 * data visualization
-
 * [book review](https://monkmanmh.github.io/bookreview-storytellingwithdata/)
 
 
@@ -198,7 +186,6 @@ Mimno, David (2014) "Data carpentry", [blog entry at mimno.org](http://www.mimno
 
 
 * data carpentry
-
 * data science
 
 
@@ -216,14 +203,12 @@ New York University, Data Science Department (?) ["What is Data Science?"](http:
 Ojeda, Tony; Sean Patrick Murphy; Benjamin Bengfort; and Abhijit Dasgupta (2014) _Practical Data Science Cookbook_, Packt Publishing.
 
 * data science
-
 * R
 
 ___
 #### Roger D. Peng
 
 * data science
-
 * R
 
 Peng, Roger D. (2015) _Exploratory Data Analysis with R_, [Lean Pub](https://leanpub.com/exdata).
@@ -248,7 +233,6 @@ Rickert, Joseph (2013) ["Nate Silver addresses assembled statisticians at this y
 Robbins, Naomi B. (2004) _Creating More Effective Graphs_ (reprinted 2013), Chart House.
 
 * data science
-
 * data visualization
 
 
@@ -289,14 +273,12 @@ Stray, Jonathan (2016) [_The Curious Journalist's Guide to Data_](https://www.gi
 
 
 * data journalism
-
 * data science
 
 
 Toomey, Dan (2014) _R for Data Science_, Packt Publishing.
 
 * data science
-
 * R
 
 
@@ -323,9 +305,7 @@ ___
 #### John Tukey
 
 * exploratory data analysis
-
 * data science
-
 * data visualization
 
 Tukey, John (1962) "The Future of Data Analysis", [_The Annals of Mathematical Statistics_, 33-1, pp.1-67](https://projecteuclid.org/download/pdf_1/euclid.aoms/1177704711).
@@ -337,7 +317,6 @@ ___
 #### Hadley Wickham
 
 * data visualization
-
 * R 
 
 Grolemund, Garrett and Hadley Wickham (2016), [_R for Data Science_](http://r4ds.had.co.nz/do-science-with-data.html)
@@ -361,7 +340,6 @@ ___
 
 
 * data science
-
 * data visualization
 
 * see Yau's blog, [flowingdata.com](http://flowingdata.com/)
@@ -376,7 +354,6 @@ ___
 Zumel, Nina and John Mount (2014) _Practical Data Science with R_, Manning.
 
 * data science
-
 * R
 
 
