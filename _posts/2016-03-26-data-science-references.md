@@ -161,6 +161,11 @@ Hilfiger, John Jay (2015) _Graphing Data with R_, O'Reilly Media.
 
 * R
 
+Ishikawa, Kaoru (?) [Seven Basic Tools of Quality](https://en.wikipedia.org/wiki/Seven_Basic_Tools_of_Quality)
+
+* data visualization
+* exploratory data analysis
+
 
 Jaffe, Andrew (2016) ["The Evolution of a data Scientist"](http://simplystatistics.org/2016/03/21/dataScientistEvo-jaffe/), simplystatistics.org, 2016-03-21.
 
