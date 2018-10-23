@@ -51,7 +51,7 @@ ___
 
 Some additional references:
 
-* Shawn Graham, [Digital History (or, an introduction to hacking as a way of knowing)](https://carleton.ca/history/graduate/hist-5702w-public-history-special-topics-digital-history/), History 5702w, Carleton Univiersity. 
+* Shawn Graham, [Digital History (or, an introduction to hacking as a way of knowing)](https://carleton.ca/history/graduate/hist-5702w-public-history-special-topics-digital-history/), History 5702w, Carleton University. 
 
 * Shawn Graham, [5702w-winter 2016 Course Basics](https://www.gitbook.com/book/shawngraham/5702w-winter2016/details).
 
