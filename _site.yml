@@ -1,0 +1,8 @@
+name: "Martin's website"
+navbar:
+  title: "monkmanmh - test"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
